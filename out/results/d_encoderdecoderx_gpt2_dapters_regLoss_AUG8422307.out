@@ -1,0 +1,183 @@
+trainable params: 663,552 || all params: 125,105,664 || trainable%: 0.5304
+
+Prediction   : concord returned to its place amidst the tents 
+Ground Truth : concord returned to its place amidst the tents
+
+Prediction   : the delawares are children of the tortoise and they outstripped the deer 
+Ground Truth : the delawares are children of the tortoise and they outstrip the deer
+
+Prediction   : saturday august fifteenth the sea unbroken all round no land in sight 
+Ground Truth : saturday august fifteenth the sea unbroken all round no land in sight
+
+Prediction   : the inmates being removed at the appointed hour a few cannon balls were fired through the stone walls 
+Ground Truth : the inmates being removed at the appointed hour a few cannon balls were fired through the stone walls
+
+Prediction   : on august twenty seventh eighteen thirty seven she writes 
+Ground Truth : on august twenty seventh eighteen thirty seven she writes
+
+Prediction   : they were absorbed in his theology and were under the dominion of his name while that which was truly great and truly caustic in him his effort realized in connections was not understood by them at all 
+Ground Truth : they were absorbed in his theology and were under the dominion of his name while that which was truly great and truly characteristic in him his effort to realize and connect abstractions was not understood by them at all
+
+Prediction   : were leaving on the abrahamraham lincoln 
+Ground Truth : we're leaving on the abraham lincoln
+
+Prediction   : t please matthew's butler impassively 
+Ground Truth : tea please matthews butler impassively
+
+Prediction   : the net and web of endless things had been crawling and creeping around her she had struggled in dumb speechless terror against some mighty grasping that strove for her life with gnarled and creeping fingers but now at last weakly she opened her eyes and
+Ground Truth : the net and web of endless things had been crawling and creeping around her she had struggled in dumb speechless terror against some mighty grasping that strove for her life with gnarled and creeping fingers but now at last weakly she opened her eyes and questioned
+
+Prediction   : two hundred warriors feasted in his hall and followed him to battle 
+Ground Truth : two hundred warriors feasted in his hall and followed him to battle
+
+Prediction   : jack would become eva's happy husband and would remain amidst the hurried duties of the eager world 
+Ground Truth : jack would become eva's happy husband and would remain amidst the hurried duties of the eager world
+
+Prediction   : the arians took christ for a noble and perfect creature superior even to the angels because by him god created heaven and earth 
+Ground Truth : the arians took christ for a noble and perfect creature superior even to the angels because by him god created heaven and earth
+
+Prediction   : i felt it in my bones when i woke this morning that something splendid was going to turn up 
+Ground Truth : i felt it in my bones when i woke this morning that something splendid was going to turn up
+
+Prediction   : in truth she seemed absolutely hidden behind it 
+Ground Truth : in truth she seemed absolutely hidden behind it
+
+Prediction   : to suppose that the object of this work is to aid in affecting such a substitute as that is entirely to mistake its nature and design 
+Ground Truth : to suppose that the object of this work is to aid in effecting such a substitution as that is entirely to mistake its nature and design
+
+Prediction   : and then we insist upon it the study of social deformities and infirmities and the task of pointing them out with their view to remedy is not a business in which choice is permitted 
+Ground Truth : and then we insist upon it the study of social deformities and infirmities and the task of pointing them out with a view to remedy is not a business in which choice is permitted
+
+Prediction   : in the court yard some of the merry children were playing who had danced at christmas round the fir tree and were so glad at the sight of him 
+Ground Truth : in the court yard some of the merry children were playing who had danced at christmas round the fir tree and were so glad at the sight of him
+
+Prediction   : for the first day sir i think that what you have done gives great hopes of you and without any doubt you will make rapid progress 
+Ground Truth : for the first day sir i think that what you have done gives great hopes of you and without any doubt you will make rapid progress
+
+Prediction   : only there are two sorts of cloud in far 
+Ground Truth : only there are two sorts of cloud and fire
+
+Prediction   : oh well sir what about em 
+Ground Truth : oh well sir what about him
+
+Prediction   : only for a minute or so 
+Ground Truth : only for a minute or so
+
+Prediction   : it is such a noble ambition that it is a pity it has usually such a shallow foundation 
+Ground Truth : it is such a noble ambition that it is a pity it has usually such a shallow foundation
+
+Prediction   : surely we can submit with good grace 
+Ground Truth : surely we can submit with good grace
+
+Prediction   : hold him fast to my men and as soon as i have had my coffee and oat will i will take him to the room of the great knife and patch him 
+Ground Truth : hold him fast my men and as soon as i've had my coffee and oatmeal i'll take him to the room of the great knife and patch him
+
+Prediction   : i get wet to my knees when i go down to pick cherries 
+Ground Truth : i get wet to my knees when i go down to pick cherries
+
+Prediction   : all the time he was talking to me his angry little eyes were following link 
+Ground Truth : all the time he was talking to me his angry little eyes were following lake
+
+Prediction   : well if i don't know who she was in love with i know who he was 
+Ground Truth : well if i don't know who she was in love with i know who he was
+Cross Decoder Clean WER 0.08521088472528467
+Cross Decoder Clean Substitutions 1.050381679389313
+Cross Decoder Clean Insertions 0.233206106870229
+Cross Decoder Clean Deletions 0.8381679389312977
+------------ Other cases ------------ 
+
+Prediction   : and from the kara lying off the coast 
+Ground Truth : i am from the cutter lying off the coast
+
+Prediction   : yes sir said the man emily shall i go at once sir 
+Ground Truth : yes sir said the man humbly shall i go at once sir
+
+Prediction   : some died without speaking others spoke without dying some died in speaking others spoke and dying 
+Ground Truth : some died without speaking others spoke without dying some died in speaking others spoke in dying
+
+Prediction   : but i am troubled much you should make so ill a journey to saw little purpose indeed i wrote by the first post after my arrival here and cannot imagine how you came to miss of my letters 
+Ground Truth : but i am troubled much you should make so ill a journey to so little purpose indeed i writ by the first post after my arrival here and cannot imagine how you came to miss of my letters
+
+Prediction   : and how wonderfully he has answered our petitiones 
+Ground Truth : and how wonderfully he has answered our petitions
+
+Prediction   : this free women 
+Ground Truth : this frees woman
+
+Prediction   : a woman who yearns for the regard of all men and makes love a toy easily lessens the demands she imposees upon individuals 
+Ground Truth : a woman who yearns for the regard of all men and makes love a toy easily lessens the demands she imposes upon individuals
+
+Prediction   : i could do so much for all at home how i should enjol't that 
+Ground Truth : i could do so much for all at home how i should enjoy that
+
+Prediction   : out of deference to liddy they washed her dishes once a day and they concurred to queer masses according to their several abilities 
+Ground Truth : out of deference to liddy they washed their dishes once a day and they concocted queer messes according to their several abilities
+
+Prediction   : but before that what reverend mother 
+Ground Truth : but before that what reverend mother
+
+Prediction   : the empty coffin remains this produced a pause 
+Ground Truth : the empty coffin remains this produced a pause
+
+Prediction   : every time i saw any one with a bead on me i would drop off my horse and try to drive the shooter inside but i could not see in every direction 
+Ground Truth : every time i saw any one with a bead on me i would drop off my horse and try to drive the shooter inside but i could not see in every direction
+
+Prediction   : and look at charles second and lewis fourteen and louis fifteen and james second and edward second and forty more besides all of them saxon hev tark is that used to rip around so when old times and race came 
+Ground Truth : and look at charles second and louis fourteen and louis fifteen and james second and edward second and richard third and forty more besides all them saxon heptarchies that used to rip around so in old times and raise cain
+
+Prediction   : and if any of the other cops had private rakits of their own is he was undoubtedly the man to find it out and use the information with a bete noi halfs and with all the graft to the upper brackets he
+Ground Truth : and if any of the other cops had private rackets of their own izzy was undoubtedly the man to find it out and use the information with a beat such as that even going halves and with all the graft to the upper brackets he'd still be able to make his pile in a matter of months
+
+Prediction   : that is a matter for each man's own decision he said severely 
+Ground Truth : that is a matter for each man's own decision he said severely
+
+Prediction   : there was once some time a widower who had a son and a daughter by his first wife 
+Ground Truth : there was once on a time a widower who had a son and a daughter by his first wife
+
+Prediction   : remember is thou the magazine of fuel that he stole beneath these apartments woman 
+Ground Truth : rememberest thou the magazine of fuel that is stored beneath these apartments woman
+
+Prediction   : he was pololovret 
+Ground Truth : who spreads the pall over it
+
+Prediction   : the duke comes every morning they will tell him when he comes that i am asleep and perhaps he will wait until i awake 
+Ground Truth : the duke comes every morning they will tell him when he comes that i am asleep and perhaps he will wait until i wake
+
+Prediction   : a faint glimmer of light on the opposite wall shows me the key hole 
+Ground Truth : a faint glimmer of light on the opposite wall shows me the keyhole
+
+Prediction   : as they turned up into a small court opening out into a squalid street bessy said 
+Ground Truth : as they turned up into a small court opening out of a squalid street bessy said
+
+Prediction   : no news a job ben that's jikie heres 
+Ground Truth : know who needs a job bad that's jakey harris
+
+Prediction   : i know you will said dickie with enthusiasm i know how good you are 
+Ground Truth : i know you will said dickie with enthusiasm i know ow good you are
+
+Prediction   : lady ernestan peter called his mother moved in circles which were entirely beyond their compads or ambitions and the son would probably one day be an ambassador 
+Ground Truth : lady ernestine pigeoncote his mother moved in circles which were entirely beyond their compass or ambitions and the son would probably one day be an ambassador
+
+Prediction   : houses in the home of the mendy and priest was brought him to direct incantee with their jehovah worship 
+Ground Truth : moses in the home of the midian priest was brought into direct and constant contact with the jehovah worship
+
+Prediction   : the colonel did not disclose the fact that it was no news to him 
+Ground Truth : the colonel did not disclose the fact that it was no news to him
+
+Prediction   : the two monsters took off their shoes and moved stealthily along keeping in the shadows of the houses 
+Ground Truth : the two monsters took off their shoes and moved stealthily along keeping in the shadows of the houses
+
+Prediction   : want an avidity william care more revenge populous populous pride all these truckminn revenge populous 
+Ground Truth : wanton avidity bilious envy careworn revenge populace pride all these struck mine eye
+
+Prediction   : without the state men would not have been able to form the social institutions needed for doing anything 
+Ground Truth : without the state men would not have been able to form the social institutions needed for doing any thing
+
+Prediction   : i have been strolling or rather i have been thurston 
+Ground Truth : i have been starving or rather i have been thirsting
+Cross Decoder Clean WER 0.08521088472528467
+Cross Decoder  Other WER 0.15289764515051407
+
+Cross Decoder Clean Substitutions 1.881297709923664
+Cross Decoder Clean Insertions 0.3656488549618321
+Cross Decoder Clean Deletions 0.8687022900763359

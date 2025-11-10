@@ -1,0 +1,10 @@
+trainable params: 663,552 || all params: 91,183,104 || trainable%: 0.7277
+loaded model
+Calculating WER...
+trainable params: 663,552 || all params: 91,183,104 || trainable%: 0.7277
+Cross Decoder WER 0.09502014530729345
+Cross Decoder WER 0.26688891218817573
+[0.09502014530729345, 0.26688891218817573]
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 184489 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.1895330548286438
+Average training loss: 3.0269832611083984

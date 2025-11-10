@@ -1,0 +1,317 @@
+trainable params: 884,736 || all params: 153,692,928 || trainable%: 0.5757
+trainable params: 68,636,928 || all params: 153,692,928 || trainable%: 44.6585
+
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 131444 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.11949650198221207
+Average training loss: 0.9518819451332092
+Evaluation time: 130.66455745697021
+Eval loss: 0.2982 || Eval Perplexity: 1.3475 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 1
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 131644 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.031041845679283142
+Average training loss: 0.1243663717672896
+Evaluation time: 128.72374486923218
+Eval loss: 0.3008 || Eval Perplexity: 1.3509 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 2
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 131844 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.021554753184318542
+Average training loss: 0.11732329684599974
+Evaluation time: 129.63467669487
+Eval loss: 0.2973 || Eval Perplexity: 1.3462 || Regularization loss: 25.6513
+0.0002
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 132044 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.013785078190267086
+Average training loss: 0.11539080089884818
+Evaluation time: 128.97663187980652
+Eval loss: 0.2975 || Eval Perplexity: 1.3465 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 1
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 132244 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.012939134612679482
+Average training loss: 0.11406627232639047
+Evaluation time: 129.5827443599701
+Eval loss: 0.2986 || Eval Perplexity: 1.3479 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 2
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 132444 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.014511755667626858
+Average training loss: 0.11397766898089386
+Evaluation time: 129.08524584770203
+Eval loss: 0.2973 || Eval Perplexity: 1.3462 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 3
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 132644 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.011140117421746254
+Average training loss: 0.11298930885768081
+Evaluation time: 129.21792268753052
+Eval loss: 0.3017 || Eval Perplexity: 1.3521 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 4
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 132844 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.018551649525761604
+Average training loss: 0.1117130304047895
+Evaluation time: 129.30329298973083
+Eval loss: 0.3029 || Eval Perplexity: 1.3538 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 5
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 133044 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.019312163814902306
+Average training loss: 0.11277884004380481
+Evaluation time: 129.64875173568726
+Eval loss: 0.3113 || Eval Perplexity: 1.3652 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 6
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 133244 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.013886810280382633
+Average training loss: 0.11259400730550306
+Evaluation time: 129.49513792991638
+Eval loss: 0.3158 || Eval Perplexity: 1.3714 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 7
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 133444 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.012363772839307785
+Average training loss: 0.11273325407092852
+Evaluation time: 129.1064875125885
+Eval loss: 0.3129 || Eval Perplexity: 1.3673 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 8
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 133644 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.018420003354549408
+Average training loss: 0.11237220738763527
+Evaluation time: 129.26913118362427
+Eval loss: 0.3013 || Eval Perplexity: 1.3516 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 9
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 133844 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.020947245880961418
+Average training loss: 0.112648924842542
+Evaluation time: 129.25009655952454
+Eval loss: 0.2994 || Eval Perplexity: 1.3490 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 10
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 134044 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.02720618061721325
+Average training loss: 0.11268148895192666
+Evaluation time: 129.16107058525085
+Eval loss: 0.3143 || Eval Perplexity: 1.3693 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 11
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 134244 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.011629304848611355
+Average training loss: 0.11302732603284651
+Evaluation time: 129.12416124343872
+Eval loss: 0.3134 || Eval Perplexity: 1.3681 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 12
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 134444 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.029241740703582764
+Average training loss: 0.11331371082255529
+Evaluation time: 129.41455054283142
+Eval loss: 0.3083 || Eval Perplexity: 1.3611 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 13
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 134644 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.010278033092617989
+Average training loss: 0.1136519437404428
+Evaluation time: 129.0239806175232
+Eval loss: 0.3121 || Eval Perplexity: 1.3662 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 14
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 134844 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.018103543668985367
+Average training loss: 0.11398918886762907
+Evaluation time: 129.75548458099365
+Eval loss: 0.3028 || Eval Perplexity: 1.3536 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 15
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 135044 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.014521638862788677
+Average training loss: 0.11413263685466456
+Evaluation time: 129.39122581481934
+Eval loss: 0.3040 || Eval Perplexity: 1.3553 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 16
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 135244 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.006514184642583132
+Average training loss: 0.11386695427472647
+Evaluation time: 128.85082817077637
+Eval loss: 0.2980 || Eval Perplexity: 1.3471 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 17
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 135444 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.007475491147488356
+Average training loss: 0.11373715929876034
+Evaluation time: 129.09399390220642
+Eval loss: 0.3019 || Eval Perplexity: 1.3524 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 18
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 135644 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.03504456207156181
+Average training loss: 0.1141128891154989
+Evaluation time: 129.49470329284668
+Eval loss: 0.3068 || Eval Perplexity: 1.3591 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 19
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 135844 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.01445237547159195
+Average training loss: 0.11404781163960248
+Evaluation time: 129.45336508750916
+Eval loss: 0.3115 || Eval Perplexity: 1.3655 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 20
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 136044 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.005468143615871668
+Average training loss: 0.11398853459920741
+Evaluation time: 129.51185417175293
+Eval loss: 0.3075 || Eval Perplexity: 1.3600 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 21
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 136244 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.021748563274741173
+Average training loss: 0.11436548927138154
+Evaluation time: 129.06259846687317
+Eval loss: 0.3035 || Eval Perplexity: 1.3545 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 22
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 136444 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.020639926195144653
+Average training loss: 0.11467659592288056
+Evaluation time: 129.0872142314911
+Eval loss: 0.3037 || Eval Perplexity: 1.3549 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 23
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 136644 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.0180585365742445
+Average training loss: 0.11466270164042064
+Evaluation time: 129.13818216323853
+Eval loss: 0.3097 || Eval Perplexity: 1.3631 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 24
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 136844 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.018838446587324142
+Average training loss: 0.11469993458871454
+Evaluation time: 129.58702635765076
+Eval loss: 0.3060 || Eval Perplexity: 1.3580 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 25
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 137044 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.02088543400168419
+Average training loss: 0.1146726479530707
+Evaluation time: 129.2183060646057
+Eval loss: 0.3105 || Eval Perplexity: 1.3641 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 26
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 137244 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.008628103882074356
+Average training loss: 0.11486376878153484
+Evaluation time: 129.2945122718811
+Eval loss: 0.3056 || Eval Perplexity: 1.3575 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 27
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 137444 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.019112830981612206
+Average training loss: 0.11485347118079066
+Evaluation time: 129.1636025905609
+Eval loss: 0.3132 || Eval Perplexity: 1.3678 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 28
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 137644 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.011702701449394226
+Average training loss: 0.11479745047589576
+Evaluation time: 129.32253432273865
+Eval loss: 0.3057 || Eval Perplexity: 1.3576 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 29
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 137844 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.006017256993800402
+Average training loss: 0.11493415560167695
+Evaluation time: 129.05205154418945
+Eval loss: 0.3140 || Eval Perplexity: 1.3689 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 30
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 138044 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.015332435257732868
+Average training loss: 0.11525989591978279
+Evaluation time: 129.17416715621948
+Eval loss: 0.3061 || Eval Perplexity: 1.3581 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 31
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 138244 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.013525777496397495
+Average training loss: 0.11536949690211706
+Evaluation time: 128.97258019447327
+Eval loss: 0.3093 || Eval Perplexity: 1.3625 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 32
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 138444 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.028219379484653473
+Average training loss: 0.11563902472740087
+Evaluation time: 129.40524435043335
+Eval loss: 0.3104 || Eval Perplexity: 1.3640 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 33
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 138644 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.021095337346196175
+Average training loss: 0.11565842832053366
+Evaluation time: 129.07230186462402
+Eval loss: 0.3114 || Eval Perplexity: 1.3654 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 34
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 138844 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.010226988233625889
+Average training loss: 0.1156852313741053
+Evaluation time: 129.18988180160522
+Eval loss: 0.2998 || Eval Perplexity: 1.3496 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 35
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 139044 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.02361084148287773
+Average training loss: 0.11567753172407157
+Evaluation time: 129.639666557312
+Eval loss: 0.3046 || Eval Perplexity: 1.3561 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 36
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 139244 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.010414967313408852
+Average training loss: 0.1159291948336158
+Evaluation time: 129.77429962158203
+Eval loss: 0.3075 || Eval Perplexity: 1.3600 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 37
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 139444 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.02176826074719429
+Average training loss: 0.11603623871544744
+Evaluation time: 129.11611342430115
+Eval loss: 0.3068 || Eval Perplexity: 1.3590 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 38
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 139644 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.009602367877960205
+Average training loss: 0.11597633340444023
+Evaluation time: 129.26013040542603
+Eval loss: 0.3054 || Eval Perplexity: 1.3571 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 39
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 139844 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.006833667401224375
+Average training loss: 0.11587867123276481
+Evaluation time: 129.54431533813477
+Eval loss: 0.3038 || Eval Perplexity: 1.3550 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 40
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 140044 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.010152718052268028
+Average training loss: 0.11595364578554221
+Evaluation time: 129.2298083305359
+Eval loss: 0.3047 || Eval Perplexity: 1.3563 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 41
+~~~~~~~~~~~~~~~~~~~~~~~~~ Epoch  2  | step 140244 ~~~~~~~~~~~~~~~~~~~~~~~~~
+Training loss for step: 0.008285779505968094
+Average training loss: 0.1160671669550036
+Evaluation time: 129.23377752304077
+Eval loss: 0.3091 || Eval Perplexity: 1.3621 || Regularization loss: 25.6513
+0.0002
+Early Stopping count... 42
